@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💻 Tech Stack:
+- 🐍 Python | Django | SQLite | MySQL | AJAX | Telegram Bot API
+- 💻 C (ft_printf, get_next_line, malloc, etc.)
+- 🌐 HTML | CSS | JavaScript (learning React)
+- ⚙️ Redis | WebSockets | HTTP | Forms & Models in Django
+
+- 
