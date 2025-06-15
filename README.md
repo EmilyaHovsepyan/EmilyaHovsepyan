@@ -41,29 +41,62 @@ Here are some ideas to get you started:
 - ⚙️ Redis | WebSockets | HTTP | Forms & Models in Django
 '''-->
 
-# 💻 Emilya Hovsepyan 
-### **Fullstack Developer | 42 Yerevan & NPUA Scholar | Former Pro Athlete**
+<h1 align="center">👋 Hello, I'm Emilya Hovsepyan</h1>
+<h3 align="center">Full Stack Developer | NPUA & 42 Yerevan Student | Former Professional Athlete</h3>
 
-[![42 Badge](https://img.shields.io/badge/42-Yerevan_Black_Project-red)](https://42yerevan.am)
-[![University](https://img.shields.io/badge/NPUA-Computer_Science-blue)](https://www.npua.am)
-[![Discipline](https://img.shields.io/badge/Mindset-Military_Discipline-darkgreen)]()
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&center=true&vCenter=true&width=435&lines=Disciplined+coder+%26+problem+solver;Python+%7C+Django+%7C+JavaScript;Turning+ideas+into+functional+code;From+tennis+courts+to+code+reviews" alt="Typing SVG" /></a>
+</p>
 
-> **"Code is poetry meets precision engineering"**  
-> C | Python | Django | WebSockets | Competitive Problem Solver
+## 🚀 About Me
 
----
+- 🎓 Dual-track education at **National Polytechnic University of Armenia (NPUA)** and **42 Yerevan**
+- 🏆 Former **professional tennis athlete** bringing discipline and perseverance to coding
+- 💡 Passionate about **problem-solving** and **clean code architecture**
+- 🌱 Currently mastering **JavaScript (React) and advanced Django concepts**
+- ⚡ Fun fact: I can **serve an ace** both on the court and in my code
 
-### 🚀 **About Me**
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🌐 Web Development
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🛠 Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EmilyaHovsepyan&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmilyaHovsepyan&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyaHovsepyan&layout=compact&theme=radical&langs_count=6" />
+</p>
+
+## 🎾 Sports Meets Code
+
 ```python
-class Developer:
-    def __init__(self):
-        self.skills = {
-            'backend': ['C', 'Python', 'Django', 'MySQL', 'Redis'],
-            'frontend': ['HTML/CSS', 'JavaScript', 'React (learning)'],
-            'systems': ['Linux', 'Memory Management', 'Network Protocols'],
-            'soft_skills': ['Discipline', 'Teamwork', 'Performance Under Pressure']
-        }
-        self.education = [
-            '42 Yerevan (Systems Programming)',
-            'National Polytechnic University of Armenia (CS)'
-        ]
+def athlete_to_developer():
+    discipline = True
+    perseverance = "Unlimited"
+    problem_solving = "Grand Slam Level"
+    
+    while discipline:
+        code = learn()
+        if bug_found():
+            debug_with(perseverance)
+        else:
+            deploy()
