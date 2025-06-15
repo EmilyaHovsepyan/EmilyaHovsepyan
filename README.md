@@ -79,9 +79,4 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <p align="center">
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EmilyaHovsepyan&show_icons=true&theme=dark" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmilyaHovsepyan&theme=dark" />
-</p>
-
-<p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyaHovsepyan&layout=compact&theme=dark&langs_count=6" />
