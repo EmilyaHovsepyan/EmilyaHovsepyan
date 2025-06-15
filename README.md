@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <h3 align="center">Full Stack Developer | NPUA & 42 Yerevan Student | Former Professional Athlete</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&center=true&vCenter=true&width=435&lines=Disciplined+coder+%26+problem+solver;Python+%7C+Django+%7C+JavaScript;Turning+ideas+into+functional+code;From+tennis+courts+to+code+reviews" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&center=true&vCenter=true&width=435&lines=Disciplined+coder;Python+%7C+Django+%7C+JavaScript;Turning+ideas+into+functional+code;From+tennis+courts+to+code+reviews" alt="Typing SVG" /></a>
 </p>
 
 ## 🚀 About Me
@@ -78,25 +78,9 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EmilyaHovsepyan&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmilyaHovsepyan&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EmilyaHovsepyan&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmilyaHovsepyan&theme=dark" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyaHovsepyan&layout=compact&theme=radical&langs_count=6" />
-</p>
-
-## 🎾 Sports Meets Code
-
-```python
-def athlete_to_developer():
-    discipline = True
-    perseverance = "Unlimited"
-    problem_solving = "Grand Slam Level"
-    
-    while discipline:
-        code = learn()
-        if bug_found():
-            debug_with(perseverance)
-        else:
-            deploy()
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyaHovsepyan&layout=compact&theme=dark&langs_count=6" />
