@@ -41,7 +41,7 @@ Here are some ideas to get you started:h
 '''-->
 
 <h1 align="center">👋 Hello, I'm Emilya Hovsepyan</h1>
-<h3 align="center">Full Stack Developer | NPUA & 42 Yerevan Student | Former Professional Athlete</h3>
+<h3 align="center">Back End Developer | NPUA & 42 Yerevan Student | Former Professional Athlete</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&center=true&vCenter=true&width=435&lines=Disciplined+coder;Python+%7C+Django+%7C+JavaScript;Turning+ideas+into+functional+code;From+tennis+courts+to+code+reviews" alt="Typing SVG" /></a>
