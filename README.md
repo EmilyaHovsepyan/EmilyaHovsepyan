@@ -24,7 +24,7 @@ Here are some ideas to get you started:h
 <!-- <h1 align="center">Hi 👋, I'm Emilya</h1>
 <h3 align="center">An ambitious fullstack developer</h3>
 
-- 🌱 I’m currently learning JS and Python **Django framework**
+- 🌱 I’m currently learning JS, GO and Python **Django framework**
 
 - ⚡ Fun fact **I am a professional tennis athlete**
 
